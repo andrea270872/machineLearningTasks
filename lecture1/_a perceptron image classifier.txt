@@ -1,3 +1,8 @@
 23:27 09/07/2013
 
 Lecture 1
+
+- run perceptron_v0_3.py to load images and train the perceptron
+  The program will save a data.bin file, that contains the weights for the perceptron
+- then run perceptronB.py to test how good the perceptron is on new images
+- finally use perceptronC.py to test how good the perceptron is on the original images (with noise)
