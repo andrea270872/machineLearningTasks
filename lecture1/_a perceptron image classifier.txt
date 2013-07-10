@@ -6,3 +6,5 @@ Lecture 1
   The program will save a data.bin file, that contains the weights for the perceptron
 - then run perceptronB.py to test how good the perceptron is on new images
 - finally use perceptronC.py to test how good the perceptron is on the original images (with noise)
+
+Requires Python 2.7 and numpy, scipy and possibly matplotlib.
